@@ -1,6 +1,6 @@
 import pdfplumber
 
-pdf_path = "/Users/guimaroboo/Desktop/nf-price/nfe.pdf"
+pdf_path = "{NFE-Path}"
 with pdfplumber.open(pdf_path) as pdf:
     for i, page in enumerate(pdf.pages):
         print(f"--- Página {i+1} ---")
