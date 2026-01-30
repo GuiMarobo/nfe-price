@@ -1,0 +1,6 @@
+{
+    "markup_padrao": 1.9,
+    "caminho_entrada": "data/input/nfe.pdf",
+    "caminho_saida_excel": "data/output/precificacao.xlsx",
+    "caminho_saida_pdf": "data/output/precificacao.pdf"
+}
